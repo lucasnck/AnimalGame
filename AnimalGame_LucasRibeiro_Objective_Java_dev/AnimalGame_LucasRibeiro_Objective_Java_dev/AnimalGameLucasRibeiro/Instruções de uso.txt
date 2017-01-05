@@ -1,0 +1,22 @@
+Instruções para testar o jogo:
+
+- Extraia os arquivos da pasta AnimalGameLucasRibeiro
+- Observe se a pasta contêm um arquivo .jar denominado JogoDosAnimais_LucasRibeiro.jar
+- Observe se a pasta contêm uma outra pasta chamada lib > gson-2.3.1.jar
+- Dois cliques no arquivo JogoDosAnimais_LucasRibeiro.jar
+- Para reiniciar as informações do jogo delete a pasta "db" localizado na pasta raíz do jogo
+
+ATENÇÃO:
+
+- O jogo cria uma pasta chamada db na pasta raíz do jogo
+- A pasta DB é responsável por armazenar informações sobre o jogo e é necessária
+- Caso algum erro ocorra no jogo, verifique se o usuário possui permissão para criar pastas e arquivos
+
+
+
+===== BOM JOGO =====
+
+
+Lucas Ribeiro
+(14)99630-9404
+luucasnck@gmail.com
